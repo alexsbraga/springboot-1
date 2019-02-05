@@ -9,7 +9,7 @@ public class SpringBoot1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBoot1Application.class, args);
 		
-		System.out.println("Primeiro Programa Springboot");
+		System.out.println("Primeiro Programa SpringBoot");
 		
 	}
 
